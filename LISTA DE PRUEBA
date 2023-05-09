@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF: -1, tvg-logo="https://revistacorrientes.com/wp-content/uploads/2019/11/rcn-logo.jpg-la-plena.jpg" group-title="COLOMBIA", RCN TV HD
+#EXTINF: -1, COLOMBIA", RCN TV HD
 
 https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Qy2HtQ5s_XEqc1hl5b0IAHLSMFfJOsLpD7gf4LDsUxn)/cloud/3/x7vyv0z/s/live-1.m3u8
 
-#EXTINF: -1, tvg-logo="https://es.wikipedia.org/wiki/Uno_%28canal_de_televisi%C3%B3n%29#/media/Archivo:Uno_logo.svg" group-title="BOLIVIA", RED UNO HD
+#EXTINF: -1, BOLIVIA, RED UNO HD
 
 https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjQ5rEP-Pylb_Y3XUspnEqKwFnf6Ims8-_2y_oF4NOFy)/dm/3/x825whp/d/live-2.m3u8
