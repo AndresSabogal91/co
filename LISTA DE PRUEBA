@@ -108,3 +108,8 @@ https://stream.mediaserver.com.co:8088/live/buenisimatv.m3u8?hls_ctx=16g7l1ha
 #EXTINF:-1 tvg-chno="22" tvg-id="CMB TV" tvg-logo="https://cdn.colombia.com/canales/cmb-television-2842.jpg" ,CMB TV HD - BOGOTA (CUNDINAMARCA)
 
 https://cdn-media-content.onestream.studio/content/hls/live/live_1884859_nhpa1jhtn/hls.m3u8
+
+
+#EXTINF:-1 tvg-chno="23" tvg-id="TIGO SPORTS" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/tigosports.jpg" ,TIGO SPORTS HD
+
+https://pro.zorrohd8.xyz/live/ST03b647e8ebef657.m3u8
