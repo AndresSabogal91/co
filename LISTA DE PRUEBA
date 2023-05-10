@@ -1,17 +1,5 @@
 #EXTM3U
 
-#EXTINF: -1, COLOMBIA", RCN TV HD
+#EXTINF:-1 tvg-chno="1" tvg-id="Caracol Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Logotipo_de_Caracol_Televisi%C3%B3n_Corporativo.png" ,CARACOL TV
 
-https://stream-02.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-Qy2HtQ5s_XEqc1hl5b0IAHLSMFfJOsLpD7gf4LDsUxn)/cloud/3/x7vyv0z/s/live-1.m3u8
-
-#EXTINF: -1, BOLIVIA, RED UNO HD
-
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjQ5rEP-Pylb_Y3XUspnEqKwFnf6Ims8-_2y_oF4NOFy)/dm/3/x825whp/d/live-2.m3u8
-
-#EXTINF: -1, EEUU, FOX NEWS HD
-
-https://1028107998.rsc.cdn77.org/6i_66QE6Oh9DFYARxV6pUg==,1683628362/ls-54548-2/tracks-v1a1/mono.m3u8
-
-#EXTINF: -1, COLOMBIA, WIN SPORTS+ HD
-
-https://pro.zorrohd8.xyz/live/STbf43800c9e15d56.m3u8
+https://co-e7-p-e-cl2.cdn.mdstrm.com/live-stream/574463697b9817cf0886fc17/publish/media_400.m3u8?aid=574462d1cab0f4d50866f001&uid=sxLghnAfgJUBfSVXqcdTQXRm2o4eZUzi&sid=O6vJ4xdpNL4ObHHHgAWyTfLHSiKpWNGL&pid=oI8rBOpIUain22CalG36aFePo77CNffc&ref=https%3A%2F%2Fwww.caracoltv.com%2F&without_cookies=false&listenerid=&dnt=true&es=co-e7-p-e-cl2.cdn.mdstrm.com&ote=1683780376563&ot=H_a-xkhX_dKoiORej2UNNQ&proto=https&pz=us
