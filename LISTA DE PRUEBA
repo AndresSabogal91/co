@@ -113,3 +113,108 @@ https://cdn-media-content.onestream.studio/content/hls/live/live_1884859_nhpa1jh
 #EXTINF:-1 tvg-chno="23" tvg-id="TIGO SPORTS" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/07/tigosports.jpg" ,TIGO SPORTS HD
 
 https://dtvott-akaws.akamaized.net/live_1251/DASH/stream_06/Segment-3847652369741530.m4v
+
+
+#EXTINF:-1 tvg-chno="24" tvg-id="MUNDO+ TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Canal-Mundo-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1" ,MUNDO+ TV HD - CIUDAD
+
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/Cq4FJHr701pqyxg7eaLySEy-gxoCKvw0pNMzoyfdy3N4v8xmZSTw0CygNHe-rHx-C-t_-fBIEczsKYB_HW__9Mmla6dTqOYGX2lOu2seX-G0pbjZiolEAog5PcSQruaMuqOZv1m5fvRGNx8XTs6xTrFJVay-Yl21Yu_YSkemS134PclLylSbS9C4Tk_f_kXO6FebSnCaJI-QSj8SJWHhV95iPyHgLqAC5_MvpfyxN_SwAGKJbzeOG1gDFy05S4xwdf-W-wCsYIro982AG8iOpzfXno1akU6Ab5XwUrO9_jVwfdLgxyANTQLVikGzgvj0yjVpu_h1WAY8IT7SXv9UrB2_NMdyANxj6anc4IoiRYqgeCtkvn1znn0l7d2QkoV8eoWG_MvNnWBwI-hJUmx5EOC1x6mrbIK50tKMI_Q6EsJJVSEf33CWB6AdZRRMRU8GzRRmZCip4RhfJSU-BQqGrYfiRPp9T64ygh_svDyYNC5Yv9ALMVXC7VsB_kX6nq2-zuaUvp3qfea8Aqf5c6G4T6f_ahIz1dLWdUUZftTNEaRDrX8dWGtA-he15oWnSUBjcNMcWmvBUxSK4Q3Xl9swuyjuusR7p89jakfl54kQXugpUyLNCyXg7DOInTbVZPWYS03-NKf0O8dlFoXRwAA2X7U2UQxD8pKdq5lmkWzZi--WNqNmcyC2kxO62rEWT6wrgoFrdP9UmmwXzh_5b1L_tpfuzMe0lVmQ-J8xf1d1VoHosw8QEdhFas5N8xDz-9YuqOpRowL_PPdvnTfNSaxNQw6WfDjZg7PkN7M0m4988z1-OLlbFweDhGSSHHJe4vpSwBT_fZHYSAsAQbUK8bvzLKHT5VC0bLYRmuB1DVx83AyO04mOATrFm1Hl0xMTlt8ImyYHl2x90veXd0ILOyLobTEaDJI0DSAA5gTih0EJHCABKgl1cy1lYXN0LTEw-QQ.m3u8
+
+
+#EXTINF:-1 tvg-chno="25" tvg-id="MI GENTE TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Mi-Gente-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" ,MI GENTE TV HD
+
+https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-chno="26" tvg-id="ATN TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/ATN-Television-en-vivo-Online.png?resize=696%2C392&ssl=1" ,ATN TV HD - CUCUTA (NORTE DE SANTANDER)
+
+https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/chunklist_w829295740.m3u8
+
+
+#EXTINF:-1 tvg-chno="27" tvg-id="CNC PASTO" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/CNC-Pasto-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CNC PASTO TV HD - PASTO (NARIÑO)
+
+https://hvtrafico.ddns.net/pastocnc9/cnc9/chunklist_w700577761.m3u8
+
+
+#EXTINF:-1 tvg-chno="28" tvg-id="UNIVALLE TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Univalle-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" ,UNIVALLE TV HD - CALI (VALLE)
+
+http://5ab772334c39c.streamlock.net/live-univalle/_definst_/liveuniv1497/chunklist_w152824014_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPWw2R1JNZzU1N3hvbllYWXM2bkdHakpWMU5MN09iWGFFb19XN2VCY2lPQmM9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?186.84.90.170
+
+
+#EXTINF:-1 tvg-chno="29" tvg-id="CNC MEDELLIN" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/06/Canal-CNC-Medellin-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CNC MEDELLIN HD - MEDELLIN (ANTIOQUIA)
+
+https://hvtrafico.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/chunklist_w839311721.m3u8
+
+
+#EXTINF:-1 tvg-chno="30" tvg-id="CABLENOTICIAS" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Cablenoticias-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CABLENOTICIAS HD - BOGOTA (CUNDINAMARCA)
+
+https://5ea86ddd14ce7.streamlock.net/live/cable09061970/chunklist_w1377691534.m3u8
+
+
+#EXTINF:-1 tvg-chno="31" tvg-id="CTV BARRANQUILLA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CTV BARRANQUILLA HD - BARRANQUILLA (ATLANTICO)
+
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/ctv/chunklist_w1369034547.m3u8
+
+
+#EXTINF:-1 tvg-chno="32" tvg-id="CAMPO TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Canal-Campo-TV-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CAMPO TV HD
+
+https://video17.virtualtronics.com/streamer/canalcampotv_720p2628kbs/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="33" tvg-id="TELECARIBE" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/TeleCaribe-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELECARIBE HD - BARRANQUILLA (ATLANTICO)
+
+https://dcs-live-ue4.mp.lura.live/server/play/d3zrDTGrqagTNWJGr/rendition.m3u8?track=video-4&anvsid=m177635094-n43046aabc2b95688f83e18c62c2e7cf8&ts=1683710200&anvtrid=db78f9eb24c9acb5147f24165de39dc4
+
+
+#EXTINF:-1 tvg-chno="34" tvg-id="TELEANTIOQUIA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELEANTIOQUIA HD - MEDELLIN (ANTIOQUIA)
+
+https://liveingesta118.cdnmedia.tv/teleantioquialive/dvrlive-1500/chunklist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-chno="35" tvg-id="TELEANTIOQUIA 2" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Teleantioquia-2-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELEANTIOQUIA 2 HD - MEDELLIN (ANTIOQUIA)
+
+https://liveingesta118.cdnmedia.tv/teleantioquialive/live-1500/chunklist.m3u8?DVR
+
+
+#EXTINF:-1 tvg-chno="36" tvg-id="CANAL 12" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Canal-12-Valledupar-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CANAL 12 HD - VALLEDUPAR (CESAR)
+
+https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAmRbZES6VFqqAAAA/chunklist_w557600059.m3u8
+
+
+#EXTINF:-1 tvg-chno="37" tvg-id="CANAL TRO" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/Canal-Tro-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CANAL TRO HD - BUCARAMANGA (SANTANDER)
+
+https://liveingesta118.cdnmedia.tv/canaltro2live/live-900/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-chno="38" tvg-id="PSC TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/PSC-Television-en-vivo-Online.png?resize=696%2C392&ssl=1" ,PSC TV HD - TULUA (VALLE DEL CAUCA)
+
+https://stmv4.voxtvhd.com.br/psctv/psctv/chunklist_w987824574.m3u8
+
+
+#EXTINF:-1 tvg-chno="39" tvg-id="APACIBOL TV" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Apacibol-TV-Canal-4-en-vivo-Online-.png?resize=696%2C392&ssl=1" ,APACIBOL TV CANAL 4 HD - BOGOTA (CUNDINAMARCA)
+
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpMFLIo6CPpKhD0f33ofaygRZLWOgrY0-PUu_obqhMxu66wUr0ZbRs0pHqM1mYwcUbjOaZsG7LlpuUOPtZjNe4UpdhCsDympf7aix8Gv2dgdSH8S8X2BVo7zO4Sl7PCmWqe61WhsgDK7sMUNi3Aq9KeQt1BXRl31Lwc2z80EYRADNW7E4O6_QPIFyZdljFFpbEEheN_YE8fTlptqQujEYUpQ7KDdbhL5HYdWimSLgzeIjTX-GcGsm3NguUQrwASYBz7SbKivOQQvq0Ngr1oxR9ADf2fGpPaa56jGEUauSvG3ID4xJ7A5m_1OHO2VcPAz9VsldfpTVQpWPEJ-5LQ5QU7OikFy0mF7I6Wa_UsEK8wnXwCDi8w_gEWYpz2gs7uoO65vlLDbqABZT237c3FkYObbJk9UJd1ZWLrAHGoMNKZLCllndzgz8pX2NArKO_UD1ijhrVyG5ruowS4sQuORUmF8VHRq7XcD3G63_oe_YUQXpW1krRHxWe4BHKtNPERSq-SX-_dXHupoFHM4MjlO_AS9bPt_05AND50ykPL6iweZ8i1LlZiu7OY6h5X8CsHRso7wzwlqkYmUhveQ7lsD1t4HgQErHpf0Z2y62Mt7HMrUSbLDxNWo0DiJhBgaWibdU-N1wpVSWgLK0-jsw7uWOGrl0fCE_zVX8uEcvMyy0wTnsUtjYkXBW8X3GXdpWQ0ZupVSp6kqkc6OuNc9WW0grhzXuoTVSSCAOJlSO1umJJZr6jhR7gCl-PhpO8MC50ViqKfXPTpEOT0ohtQIo72kQfzPObJYLrETjgDP2jQtZ3f01OToGPZDjEjVTr7jG-Y0GiT6VqZA-t_HKmeWwc5iNr2VItdG4C8EHpv5LCyeB1P-JiNPoD4aDPub3EDTDp-HtfKNuiABKgl1cy1lYXN0LTEw-QQ.m3u8
+
+
+#EXTINF:-1 tvg-chno="40" tvg-id="CANAL ACUARIO" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Canal-Acuario-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CANAL ACUARIO HD - MEDELLIN (ANTIOQUIA)
+
+https://video-weaver.bog01.hls.ttvnw.net/v1/playlist/CpMFeBY4Ca-UYBKn1GWGRmbXomlihPjLoLR72xbQfIl0JkAX2PD2sLgDinLGk5_puvC9yIiri_QWeZxxujJDwRzw-7TKFiRW33ws42fQmQ0kik9IFpz84jAbyUcLtPJNXfi5OdDueIt28qSLWmwxfofwidVzHIr_wnXJgScoc7z36uuqtt1kg4zu7bIweDOqhS39__4c9bI1voxP-nBmz1PzSUGTVbVWnB44I5xZDgBOlKhdeHi-RL9SfHi0Z9ihULVMhyzL4xVqSmlK-det309JpvTUwNcYnkXtKfEAD0NgyMtBwtJk2j0wxClako1KyjWwLPW7x8Igffc9UuIl4X0EHaI8csOsUjUkZsegVsWVBeV72xJ2JLwUWGPyo62pFu5SgYijA_r_SYWtNjchmuxupxEprCyxlnem4OWG6w-9zPaxxQeTV69rj2vhoRPnhE49cL4c3Cz2J54vCO6JxuW0cP6Qw-uw8XbGvNv7fj6Du2eHLoBDLMRfspV2-N4dDpWjTepfUtAYsc8i2_FgdBtKy8ka97JLKTmAxJlbv0PdMYB7UknF3iXmvLkYlxqC-2jA1ItIEVAcMPJh_mDND8HFCbNTlnUNLZsSw-Y2W8HtPU2JYJET3-ugJh2b-1C-35iVkrfY9At8WfIEokOzXgf5LHXDiTfMZ5MqjOVJji7cc3aISVrp6nFwKHE3M7tYpCL_yBtn8l-lgNEvufN-J-jTnIT2mmmfmQLKVXuJd4t-w2OZ72RGajnTLeiWVGiy4qvZE2yMMCI3FgpYvaCD1p15r-oFpcGRteh-c-1DQg36wpmtUadR8vXgoqirYKlVJMHPPT_-rOOvMWso-RcvRBa2RBJBDEgpXiBdhy_-slK51LpjaycaDJlroh19dcj43P2ZcSABKgl1cy1lYXN0LTEw-QQ.m3u8
+
+
+#EXTINF:-1 tvg-chno="41" tvg-id="CNC TULUA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/CNC-Tulua-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CNC TULUA HD - TULUA (VALLE DEL CAUCA)
+
+https://streamtech.ml:5443/cnctulua/streams/054789868834271693532511.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+#EXTINF:-1 tvg-chno="42" tvg-id="CANAL TELEPALMAR" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/Canal-Telepalmar-en-vivo-Online.png?resize=696%2C392&ssl=1" ,CANAL TELEPALMAR HD - PALMIRA (VALLE DEL CAUCA)
+
+https://play.amelbasoluciones.co:3976/live/telepalmartvlive.m3u8
+
+
+#EXTINF:-1 tvg-chno="43" tvg-id="TELEMUSICA" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Telemusica-Colombia-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELEMUSICA HD
+
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=958z10x1
+
+
+#EXTINF:-1 tvg-chno="44" tvg-id="TELECAFE" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Telecafe%CC%81-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELECAFE HD - MANIZALES (CALDAS)
+
+https://liveingesta118.cdnmedia.tv/telecafelive/dvrlive-1500/chunklist.m3u8?DVR
