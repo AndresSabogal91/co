@@ -224,3 +224,78 @@ https://liveingesta118.cdnmedia.tv/telecafelive/dvrlive-1500/chunklist.m3u8?DVR
 #EXTINF:-1 tvg-chno="45" tvg-id="BIOBIO TV" tvg-logo="https://serenotv.com/carga/2022/01/Canal-biobiotv-en-vivo-300x193.jpg" ,BIOBIO TV HD - CHILE
 
 https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream1/chunks.m3u8
+
+
+#EXTINF:-1 tvg-chno="46" tvg-id="SENTIMIENTO VALLENATO" tvg-logo="https://serenotv.com/carga/2022/01/canal-Sentimiento-Vallenato-en-vivo.jpg" ,SENTIMIENTO VALLENATO HD
+
+https://hvtrafico.ddns.net/pastocnc4/cnc4/chunklist_w1745559174.m3u8
+
+
+#EXTINF:-1 tvg-chno="47" tvg-id="SON CORAZON" tvg-logo="https://www.clarin.com/img/2021/09/28/aOXEWyJaM_1256x620__2.jpg#1676393799613" ,SON CORAZON HD
+
+https://hvtrafico.ddns.net/pastocnc3/cnc3/chunklist_w1234036047.m3u8
+
+
+#EXTINF:-1 tvg-chno="48" tvg-id="SON LATINO" tvg-logo="https://cdn.colombia.com/canales/son-latino-2506-v1.jpg" ,SON LATINO HD
+
+https://hvtrafico.ddns.net/pastocnc2/cnc2/chunklist_w1821955636.m3u8
+
+
+#EXTINF:-1 tvg-chno="49" tvg-id="SON POPULAR" tvg-logo="https://serenotv.com/carga/2022/01/Canal-Son-Popular-en-vivo.jpg.webp" ,SON POPULAR HD
+
+https://hvtrafico.ddns.net/pastocnc7/cnc7/chunklist_w1254210021.m3u8
+
+
+#EXTINF:-1 tvg-chno="50" tvg-id="UAO PLAY" tvg-logo="https://serenotv.com/carga/2022/12/Avatar-redes-sociales-01-300x300.jpg" ,UAO PLAY HD
+
+https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/live-2500/index.m3u8
+
+
+#EXTINF:-1 tvg-chno="51" tvg-id="RT EN ESPAÑOL" tvg-logo="https://serenotv.com/carga/2021/10/canal-RT-ESPANOL-en-vivo-1-300x193.jpg" ,RT EN ESPAÑOL HD
+
+https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
+
+
+#EXTINF:-1 tvg-chno="52" tvg-id="CANAL HITS CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/HITS_TV_ASIA.png/revision/latest?cb=20210828003810" ,CANAL HIT CHANNEL HD
+
+https://hvtrafico.ddns.net/pastocnc1/cnc1/chunklist_w951292452.m3u8
+
+
+#EXTINF:-1 tvg-chno="53" tvg-id="CANAL GALERAS TV" tvg-logo="https://serenotv.com/carga/2022/01/GALERAS-TV-300x101.jpg.webp" ,CANAL GALERAS TV HD - PASTO (NARIÑO)
+
+https://hvtrafico.ddns.net/pastocnc8/cnc8/chunklist_w1244728562.m3u8
+
+
+#EXTINF:-1 tvg-chno="54" tvg-id="DW EN ESPAÑOL" tvg-logo="https://serenotv.com/carga/2022/01/canal-dw-espanol-en-vivo-300x193.jpg" ,DW EN ESPAÑOL HD
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+
+#EXTINF:-1 tvg-chno="55" tvg-id="TC TV" tvg-logo="https://serenotv.com/carga/2022/01/Canal-tc-television-en-vivo-300x193.jpg" ,TC TV HD - ECUADOR
+
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5NAngzxtFKScNuIwVhiAW0tpoazN85ioSZpyTgc5J1v)/dm/3/x7wijay/s/live-3.m3u8
+
+
+#EXTINF:-1 tvg-chno="56" tvg-id="TELEFE" tvg-logo="https://serenotv.com/carga/2023/02/telefe-300x160.jpg" ,TELEFE HD - ARGENTINA
+
+https://telefeviacom1.akamaized.net/hls/live/2037987/viacomINT/TOK/master-wild2.m3u8
+
+
+#EXTINF:-1 tvg-chno="57" tvg-id="TELEMAX" tvg-logo="https://serenotv.com/carga/2021/12/canal-telemax-en-vivo-300x193.jpg" ,TELEMAX HD - ARGENTINA
+
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w2066504629_b1828000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-chno="58" tvg-id="TLT" tvg-logo="https://serenotv.com/carga/2022/01/canal-tlt-en-vivo-300x193.jpg" ,TLT HD - VENEZUELA
+
+https://vcp4.myplaytv.com/tlt-ve/2023.stream/chunklist_w1033615509.m3u8
+
+
+#EXTINF:-1 tvg-chno="59" tvg-id="CORAZON LLANERO" tvg-logo="https://serenotv.com/carga/2022/01/canal-corazon-llanero-en-vivo-300x193.jpg" ,CORAZON LLANERO HD - VENEZUELA
+
+https://vcp.myplaytv.com/coll/coll/chunklist_w1009465614.m3u8
+
+
+#EXTINF:-1 tvg-chno="60" tvg-id="BEST CABLE SPORTS" tvg-logo="https://serenotv.com/carga/2022/01/Canal-Best-Cable-Sports-en-vivo-300x177.jpg" ,BEST CABLE SPORTS HD - PERU
+
+https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
