@@ -218,3 +218,9 @@ https://canal.mediaserver.com.co:8088/live/telemusica.m3u8?hls_ctx=958z10x1
 #EXTINF:-1 tvg-chno="44" tvg-id="TELECAFE" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/05/Telecafe%CC%81-en-vivo-Online.png?resize=696%2C392&ssl=1" ,TELECAFE HD - MANIZALES (CALDAS)
 
 https://liveingesta118.cdnmedia.tv/telecafelive/dvrlive-1500/chunklist.m3u8?DVR
+
+
+
+#EXTINF:-1 tvg-chno="45" tvg-id="BIOBIO TV" tvg-logo="https://serenotv.com/carga/2022/01/Canal-biobiotv-en-vivo-300x193.jpg" ,BIOBIO TV HD - CHILE
+
+https://unlimited1-us.dps.live/bbtv/bbtv.smil/bbtv/livestream1/chunks.m3u8
