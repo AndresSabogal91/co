@@ -309,3 +309,8 @@ https://d202koqm588atp.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 tvg-chno="3" tvg-id="UNIVISION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Logo_Univision_2019.svg" , UNIVISION HD - EEUU
 
 https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/live-audio_track_0_0_und=64000-video_track=145000.m3u8
+
+
+#EXTINF:-1 tvg-chno="3" tvg-id="UNO TV" tvg-logo="https://es.wikipedia.org/wiki/Uno_%28canal_de_televisi%C3%B3n%29#/media/Archivo:Uno_logo.svg" , UNO TV HD - BOLIVIA
+
+https://stream-01.nyc.dailymotion.com/sec(RAgBiwkvDxA3k2daAQfIDkbc4LbUWPieqhs9FUbEmzrV7V7BtnoGZ6Ol_aHOWsa8)/dm/3/x8ko1ix/d/live-1.m3u8
