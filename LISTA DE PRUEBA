@@ -299,3 +299,8 @@ https://vcp.myplaytv.com/coll/coll/chunklist_w1009465614.m3u8
 #EXTINF:-1 tvg-chno="60" tvg-id="BEST CABLE SPORTS" tvg-logo="https://serenotv.com/carga/2022/01/Canal-Best-Cable-Sports-en-vivo-300x177.jpg" ,BEST CABLE SPORTS HD - PERU
 
 https://ca2.inka.net.pe/Best-sport-000000111/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-chno="61" tvg-id="TELEMUNDO DEPORTES" tvg-logo="https://yt3.googleusercontent.com/9WoXtXRqzdQ_uOSc60C9bm52G6NyPvpYZtR_f-oXns1IlUbsZOEqLZtKaSHU4twgytouRSrP2QQ=s176-c-k-c0x00ffffff-no-rj" , TELEMUNDO DEPORTES HD - EEUU
+
+https://d202koqm588atp.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/ca9313fb-2184-4e67-b43b-216236c3a9a2/3.m3u8
